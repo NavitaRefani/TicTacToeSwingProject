@@ -174,31 +174,35 @@ After logging in, you can:
 
 ### Login Window
 
-![Login Window](screenshots/login_window.png)
-
----
+<p align="center">
+  <img src="screenshots/login_window.png" width="700">
+</p>
 
 ### Main Menu
 
-![Main Menu](screenshots/mainMenu_window.png)
-
----
+<p align="center">
+  <img src="screenshots/mainMenu_window.png" width="700">
+</p>
 
 ### Game Window
 
-![Game Window](screenshots/game_window.png)
-
----
+<p align="center">
+  <img src="screenshots/game_window.png" width="700">
+</p>
 
 ### Statistics Window
 
-![Statistics Window](screenshots/statistics_window.png)
-
----
+<p align="center">
+  <img src="screenshots/statistics_window.png" width="700">
+</p>
 
 ### Top 5 Players
 
-![Top 5 Players](screenshots/topScorers_window.png)
+<p align="center">
+  <img src="screenshots/topScorers_window.png" width="700">
+</p>
 
-## Video Link
+## Links
+
 YouTube:
+
