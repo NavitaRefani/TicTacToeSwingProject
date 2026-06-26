@@ -171,7 +171,34 @@ After logging in, you can:
 | **TopScorersFrame** | Displays the Top 5 players based on score using `JTable`. It also provides a refresh button to reload the latest leaderboard data. |
   
 ## Screenshots
-Add screenshots here.
+
+### Login Window
+
+![Login Window](screenshots/login_window.png)
+
+---
+
+### Main Menu
+
+![Main Menu](screenshots/mainMenu_window.png)
+
+---
+
+### Game Window
+
+![Game Window](screenshots/game_window.png)
+
+---
+
+### Statistics Window
+
+![Statistics Window](screenshots/statistics_window.png)
+
+---
+
+### Top 5 Players
+
+![Top 5 Players](screenshots/topScorers_window.png)
 
 ## Video Link
 YouTube:
